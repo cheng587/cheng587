@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cheng587
-- 👀 I’m here to help you with IT projects
+- 👀 I’m here to help you with your IT projects
 - 🌱 I’m currently playing with AI stuff
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 cheng587@proton.me

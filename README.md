@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @cheng587
-- 👀 I’m here to help you with your IT projects
-- 🌱 I’m currently playing with AI stuff
-- 💞️ I’m looking to collaborate on AI projects
+- 👋 Hi, I’m @cheng587 , your AI programming coach
+- 🌱 I love playing with AI , coding can be fun and rewarding ! 
+- 💞️ Happy to collaborate on AI projects
+- 🤖 OpenAI, ChatGPT, Machine Learning 
+- 👀 Get coaching on your IT projects = Live 1-on-1 , free?
+- 🕸 [Critical Machine](https://github.com/criticalmachine)
 - 📫 cheng587@proton.me
-
-<!---
-cheng587/cheng587 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
